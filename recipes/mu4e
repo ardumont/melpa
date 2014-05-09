@@ -1,0 +1,4 @@
+(mu4e
+ :repo "djcb/mu"
+ :fetcher github
+ :files ("mu4e/*.el"))
